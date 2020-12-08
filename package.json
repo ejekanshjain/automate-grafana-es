@@ -1,0 +1,21 @@
+{
+    "name": "automate-grafana-es",
+    "description": "Automate Process of adding ElasticSearch v7 based data sources in Grafana",
+    "version": "0.0.1",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ."
+    },
+    "keywords": [
+        "grafana",
+        "datasource",
+        "elasticsearch"
+    ],
+    "author": "Ekansh Jain",
+    "license": "MIT",
+    "dependencies": {
+        "async": "^3.2.0",
+        "axios": "^0.21.0",
+        "dotenv": "^8.2.0"
+    }
+}

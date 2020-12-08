@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Test-ds-1",
+        "url": "http://localhost:9200",
+        "index": "test-ds-1"
+    },
+    {
+        "name": "Test-ds-2",
+        "url": "http://localhost:9200",
+        "index": "test-ds-2"
+    }
+]
